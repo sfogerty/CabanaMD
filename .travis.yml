@@ -127,6 +127,7 @@ after_success:
 branches:
   only:
   - master
+  - longrange_testing
 
 cache:
   directories:
